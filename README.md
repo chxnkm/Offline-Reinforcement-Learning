@@ -12,5 +12,7 @@ an autonomous driving agent must be able to adapt to streets of any country the 
 
 I also seeked to understand the scalability of this novel algorithm into real-world situations, like in
 medical surgeries and autonomous driving systems, to mention a few. I also make comparisons to D4RL, a collection of datasets
-focused on research for offline RL.
+focused on research for offline RL.<br>
+
+D4RL: https://github.com/Farama-Foundation/D4RL
 
