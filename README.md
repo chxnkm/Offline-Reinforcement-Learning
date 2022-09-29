@@ -16,3 +16,4 @@ focused on research for offline RL.<br>
 
 D4RL: https://github.com/Farama-Foundation/D4RL
 
+![URECA Cert](https://user-images.githubusercontent.com/85228193/192922917-8f79c098-b420-4520-bbba-bfeb08304dff.jpg)
